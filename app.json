@@ -1,7 +1,7 @@
 {
   "name": "johanwekan",
   "description": "The open-source Trello-like kanban",
-  "repository": "https://github.com/wekan/wekan",
+  "repository": "https://github.com/webbab/johanwekan",
   "logo": "https://raw.githubusercontent.com/wekan/wekan/master/meta/icons/wekan-150.png",
   "keywords": ["productivity", "tool", "team", "kanban"],
   "website": "http://wekan.io",
